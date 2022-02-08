@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub 
+This is my first GitHub assignment.
 
 ## 🤓 Course overview and learning outcomes 
 
